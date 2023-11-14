@@ -75,7 +75,7 @@ watch(
 		}
 
 		api.clear();
-		api.rows.add(newVal).draw(false);
+		api.rows.add(newVal).draw("full-hold");
 	},
 	{
 		deep: true
