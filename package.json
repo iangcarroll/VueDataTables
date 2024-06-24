@@ -1,12 +1,12 @@
 {
-  "name": "datatables.net-vue3",
-  "version": "2.1.5",
-  "description": "Vue3 component for DataTables",
-  "main": "dist/datatables.net-vue3.umd.js",
-  "module": "dist/datatables.net-vue3.mjs",
-  "require": "dist/datatables.net-vue3.js",
-  "unpkg": "dist/datatables.net-vue3.umd.js",
-  "types": "dist/datatables.net-vue3.d.ts",
+  "name": "datatables.net-vue3-fullhold",
+  "version": "2.1.7",
+  "description": "Vue3 component for DataTables with full-hold",
+  "main": "dist/datatables.net-vue3-fullhold.umd.js",
+  "module": "dist/datatables.net-vue3-fullhold.mjs",
+  "require": "dist/datatables.net-vue3-fullhold.js",
+  "unpkg": "dist/datatables.net-vue3-fullhold.umd.js",
+  "types": "dist/datatables.net-vue3-fullhold.d.ts",
   "files": [
     "dist/*",
     "src/**/*"
